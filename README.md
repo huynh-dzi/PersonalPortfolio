@@ -1,2 +1,2 @@
-# PersonalPortfolio
+# Personal Portfolio
 Vy Huynh Personal Website
